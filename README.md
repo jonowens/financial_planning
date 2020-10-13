@@ -33,7 +33,14 @@ As a bonus, there is an additional Jupyter Notebook, financial_planner_short_ter
 
 ## Screenshots
 
+* Savings health analysis
+        
+    ![Composition of Personal Savings](./images/composition_personal_savings.png)
 
+* Retirement planning
+    ![Cumulative Return Trajectory - 30 Year](./images/cumulative_return_trajectory_30_years.png)
+
+    ![Distribution of Final Cumulative Returns](./images/distribution_final_cumulative_returns.png)
 
 ---
 
