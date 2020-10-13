@@ -67,7 +67,7 @@ As a bonus, there is an additional Jupyter Notebook, financial_planner_short_ter
 2. Open Git Terminal
     
     ![Open Git Terminal](./Images/open_git_terminal.png)
-    
+
 3. Navigate into the repository file path where the repository downloaded.
 
     ![Navigate to Repository](./Images/navigate_to_repository.png)
@@ -76,7 +76,7 @@ As a bonus, there is an additional Jupyter Notebook, financial_planner_short_ter
 
     ![Files Visible](./Images/files_visible.png)
 
-5. The libraries in the [Technologies](#technologies) section of this readme.md file are required to run the simulations.  Make sure each libary is installed by by running 'pip install packagename' where packagename is the name of each library shown.  The MCForecastTools.py file is provided for you in this repository and does not need to be installed.
+5. The libraries in the [Technologies](#technologies) section of this README.md file are required to run the simulations.  Make sure each libary is installed by by running 'pip install package-name' where package-name is the name of each library shown.  The MCForecastTools.py file is provided for you in this repository and does not need to be installed.
 
 6. Your own Alpaca API ID Key and Secret Key is needed to extract the stock and bond data from Alpaca.  Create a .env file, no name or characters before the period in .env, and place the file in the root directory of the financial_planning repository.  A convenient .gitignore file is already included in the repository, so the .env file does not upload to your own GitHub.com repository.  Add your keys to the .env file by copying the following template of code below, pasting the code in the .env file, and adding your keys between the single quotation marks.
 
