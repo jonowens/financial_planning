@@ -46,13 +46,38 @@ As a bonus, there is an additional Jupyter Notebook, financial_planner_short_ter
 
 ## Technologies
 
-
+* Python - Version 3.7.7
+* VS Code - Version 1.49.1
+* Jupyter Notebook - Version 6.1.1
+* Windows 10
+* Library - Pandas
+* Library - Dotenv
+* Library - OS
+* Library - Requests
+* Library - Alpaca Trade API
+* Library - MCForecastTools
+* Library - Matplotlib
+* Monte Carlo Simulation
 
 ---
 
 ## Installation Guide
 
+1. Download the entire repository titled, financial_planning.
 
+2. Open Git Terminal
+    
+    ![Open Git Terminal](./Images/open_git_terminal.png)
+    
+3. Navigate into repository file path where the repository downloaded.
+
+    ![Navigate to Repository](./Images/navigate_to_repository.png)
+
+4. The files should be visible and ready to run by typing the 'ls' command in the prompt and pressing the Enter key on your keyboard.  You should see the following files and the whale_analysis.ipynb notebook.
+
+    ![Files Visible](./Images/files_visible.png)
+
+*See [Usage](#usage) section below for instructions how to run the program.
 
 ---
 
@@ -64,7 +89,23 @@ As a bonus, there is an additional Jupyter Notebook, financial_planner_short_ter
 
 ## Usage
 
+1. To run the analysis process, navigate to the directory where whale_analysis.ipynb is located using Git Terminal within the a_whale_off_the_portfolio directory.
 
+    ![Navigate to repository for whale_analysis.ipynb](./Images/navigate_to_repository.png)
+
+2. Execute the command 'code .' in the terminal to open VS Code.
+
+    ![Open VS Code](./Images/open_vs_code.png)
+
+3. VS Code opens.  Select the main.ipynb file in the PyBank directory.
+
+    ![Open VS Code and select whale_analysis.ipynb](./Images/select_whale_analysis.ipynb.png)
+
+4. Click the Run All Cells button, double arrows, to run all cells in the Jupyter Notebook file.
+
+    ![Run All Cells](./Images/run_all_cells.png)
+
+5. All cells in the notbook run.
 
 ---
 
