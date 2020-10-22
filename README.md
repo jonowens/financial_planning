@@ -66,15 +66,15 @@ As a bonus, there is an additional Jupyter Notebook, financial_planner_short_ter
 
 2. Open Git Terminal
     
-    ![Open Git Terminal](./Images/open_git_terminal.png)
+    ![Open Git Terminal](./images/open_git_terminal.png)
 
 3. Navigate into the repository file path where the repository downloaded.
 
-    ![Navigate to Repository](./Images/navigate_to_repository.png)
+    ![Navigate to Repository](./images/navigate_to_repository.png)
 
 4. The files should be visible by typing the 'ls' command in the prompt and pressing the Enter key on your keyboard.  You will see the following files and the financial_planner.ipynb notebook for the 30 year simulation and the financial_planner_short_term.ipynb notebook for the five (5) and 10 year simulation.
 
-    ![Files Visible](./Images/files_visible.png)
+    ![Files Visible](./images/files_visible.png)
 
 5. The libraries in the [Technologies](#technologies) section of this README.md file are required to run the simulations.  Make sure each libary is installed by by running 'pip install package-name' where package-name is the name of each library shown.  The MCForecastTools.py file is provided for you in this repository and does not need to be installed.
 
